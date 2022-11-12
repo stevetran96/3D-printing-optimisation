@@ -1,0 +1,7 @@
+# Virtual environments
+venv/
+env/
+
+# JetBrains IDE
+.idea/
+
